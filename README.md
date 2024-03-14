@@ -5,6 +5,6 @@ NOTE:
 
 task1 is linked to script.js and style.css
 
-task2 is linked to styles.css and 
+task2 is linked to styles.css
 
-task3 is linked to app.css and 
+task3 is linked to app.css
